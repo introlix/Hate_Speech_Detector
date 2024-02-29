@@ -2,18 +2,19 @@
 
 ## How To Run?
 
-'''bash
+```bash
 $ python -m venv env
-'''
+```
 
-'''bash
+```bash
 $ .\env\Scripts\activate
-'''
+```
 
-'''bash
+```bash
 $ pip install -r requirements.txt
-'''
+```
 
-'''bash
+```bash
 $ python app.py
-'''
+```
+
