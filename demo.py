@@ -9,4 +9,4 @@ def devide(a,b):
     except Exception as e:
         raise CustomException(e, sys)
     
-devide(2, 0)
+devide(5, 0)
